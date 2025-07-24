@@ -1,0 +1,10 @@
+title: Old Goat Reviews
+description: Honest Vape Reviews. No Fluff. No Baaah-s. Just Facts.
+baseurl: "" 
+url: "https://old-goat-vape.github.io/old-goat-reviews"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
