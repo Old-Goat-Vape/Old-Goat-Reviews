@@ -50,103 +50,89 @@
                 <h1 class="text-4xl md:text-5xl font-extrabold text-white mb-4 leading-tight">
                     Old Goat’s Honest Vape Reviews – No Fluff, Just Facts 🐐💨
                 </h1>
-                <p class="text-lg md:text-xl text-gray-300 mb-6 max-w-3xl mx-auto">
+                <p class="text-lg md:text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
                     Welcome to the no-nonsense corner of the internet where vape gear gets judged like it owes me money. From flavor concentrates to hardware, if it doesn't vape right — you'll hear about it. No fluff, no filler, just the brutal truth… Old Goat style.
                 </p>
-                <ul class="text-lg md:text-xl text-gray-300 list-disc list-inside mb-8 max-w-2xl mx-auto text-left">
-                    <li class="mb-2"><span class="text-orange-500 font-semibold">👃 Flavor Reviews</span></li>
-                    <li class="mb-2"><span class="text-orange-500 font-semibold">🔧 RDA & Mod Testing</span></li>
-                    <li class="mb-2"><span class="text-orange-500 font-semibold">💣 Vape Rants & DIY Guides</span></li>
-                </ul>
                 <p class="text-lg md:text-xl text-gray-300 mb-8 max-w-3xl mx-auto">
                     Pull up a chair, pack your RDA, and join the herd.
                 </p>
                 <h3 class="text-2xl font-bold text-white mb-4">🧠 Start Browsing by Category:</h3>
                 <div class="flex flex-wrap justify-center gap-4">
-                    <button class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105">
+                    <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105 flex items-center justify-center">
                         Capella Concentrates
-                    </button>
-                    <button class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105">
+                        <!-- External link icon -->
+                        <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                    </a>
+                    <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105 flex items-center justify-center">
                         Flavorah Concentrates
-                    </button>
-                    <button class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105">
+                        <!-- External link icon -->
+                        <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                    </a>
+                    <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105 flex items-center justify-center">
+                        RDA & Mod Testing
+                        <!-- External link icon -->
+                        <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                    </a>
+                    <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105 flex items-center justify-center">
+                        Vape Rants & DIY Guides
+                        <!-- External link icon -->
+                        <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                    </a>
+                    <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105 flex items-center justify-center">
                         Old Goat’s Reviews
-                    </button>
-                    <button class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105">
+                        <!-- External link icon -->
+                        <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                    </a>
+                    <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" class="bg-orange-600 hover:bg-orange-700 text-white font-bold py-3 px-6 rounded-full shadow-md transition-all duration-300 transform hover:scale-105 flex items-center justify-center">
                         Goat School
-                    </button>
+                        <!-- External link icon -->
+                        <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+                    </a>
                 </div>
             </section>
 
-            <!-- Featured Reviews Section - Manual Content -->
+            <!-- Our Latest Hardware Reviews Section - Manual Content -->
             <section class="mb-12">
-                <h2 class="text-3xl font-bold text-white mb-6 text-center">Our Featured Reviews</h2>
+                <h2 class="text-3xl font-bold text-white mb-6 text-center">Our Latest Hardware Reviews</h2>
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                    <!-- Review Card 1 -->
+                    <!-- Hardware Review Card 1 -->
                     <div class="bg-gray-800 rounded-xl shadow-md p-6 border border-gray-700 hover:shadow-xl transition-shadow duration-300">
-                        <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=Vape+Mod+Image" alt="Vape Mod" class="w-full h-40 object-cover rounded-lg mb-4">
-                        <h3 class="text-xl font-semibold text-white mb-2">VapeX Pro Mod Review</h3>
+                        <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=Latest+Mod+Review" alt="Latest Mod" class="w-full h-40 object-cover rounded-lg mb-4">
+                        <h3 class="text-xl font-semibold text-white mb-2">The New X-Vape Mod: A Deep Dive</h3>
                         <p class="text-gray-300 text-sm mb-4">
-                            A comprehensive look at the new VapeX Pro Mod: performance, battery life, and user experience.
+                            Our in-depth review of the X-Vape Mod, covering its performance, build quality, and user experience.
                         </p>
-                        <a href="#" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
+                        <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
                             Read Full Review
                             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
                         </a>
                     </div>
 
-                    <!-- Review Card 2 -->
+                    <!-- Hardware Review Card 2 -->
                     <div class="bg-gray-800 rounded-xl shadow-md p-6 border border-gray-700 hover:shadow-xl transition-shadow duration-300">
-                        <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=E-Liquid+Image" alt="E-Liquid" class="w-full h-40 object-cover rounded-lg mb-4">
-                        <h3 class="text-xl font-semibold text-white mb-2">Top 5 Summer E-Liquids</h3>
+                        <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=RDA+Review" alt="New RDA" class="w-full h-40 object-cover rounded-lg mb-4">
+                        <h3 class="text-xl font-semibold text-white mb-2">Unboxing & Review: The Cloud Chaser RDA</h3>
                         <p class="text-gray-300 text-sm mb-4">
-                            Our picks for the best e-liquid flavors to enjoy this summer. Taste test results inside!
+                            We put the Cloud Chaser RDA to the test. Find out if it lives up to the hype for flavor and clouds.
                         </p>
-                        <a href="#" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
+                        <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
                             Read Full Review
                             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
                         </a>
                     </div>
 
-                    <!-- Review Card 3 -->
+                    <!-- Hardware Review Card 3 -->
                     <div class="bg-gray-800 rounded-xl shadow-md p-6 border border-gray-700 hover:shadow-xl transition-shadow duration-300">
-                        <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=Pod+System+Image" alt="Pod System" class="w-full h-40 object-cover rounded-lg mb-4">
-                        <h3 class="text-xl font-semibold text-white mb-2">Beginner's Guide to Pod Systems</h3>
+                        <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=Pod+System+Review" alt="Pod System" class="w-full h-40 object-cover rounded-lg mb-4">
+                        <h3 class="text-xl font-semibold text-white mb-2">Compact Power: The Mini Pod System</h3>
                         <p class="text-gray-300 text-sm mb-4">
-                            Everything you need to know about getting started with easy-to-use pod vape systems.
+                            A look at the latest compact pod system, perfect for on-the-go vaping. Is it right for you?
                         </p>
-                        <a href="#" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
+                        <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
                             Read Full Review
                             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
                         </a>
                     </div>
-                </div>
-            </section>
-
-            <!-- Conceptual Latest Reviews Section - Placeholder for Dynamic Content -->
-            <section class="bg-gray-900 rounded-xl shadow-inner p-6 md:p-10 border border-gray-700">
-                <h2 class="text-3xl font-bold text-white mb-6 text-center">Latest Reviews (Conceptual Dynamic Content)</h2>
-                <p class="text-gray-300 text-center mb-6">
-                    This section would ideally display the latest reviews fetched dynamically from a source like an API or a database.
-                    For now, you can manually add new review summaries here.
-                </p>
-                <div id="latest-reviews-container" class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <!-- Example of a manually added "latest" review -->
-                    <div class="bg-gray-800 rounded-lg shadow-sm p-4 border border-gray-700">
-                        <h4 class="text-lg font-semibold text-white mb-1">New Review: CloudChaser X</h4>
-                        <p class="text-gray-300 text-sm">
-                            "Just tried the CloudChaser X from The Vape Workshop. Impressive vapor production and flavor clarity. A solid 4.5/5!"
-                        </p>
-                        <a href="#" class="text-orange-500 hover:underline text-sm mt-2 block">Read more on The Vape Workshop</a>
-                    </div>
-                    <div class="bg-gray-800 rounded-lg shadow-sm p-4 border border-gray-700">
-                        <h4 class="text-lg font-semibold text-white mb-1">E-Liquid Spotlight: Berry Blast</h4>
-                        <p class="text-gray-300 text-sm">
-                            "The Berry Blast e-liquid is a refreshing burst of fruity goodness. Perfect for an all-day vape. Highly recommended!"
-                        </p>
-                        <a href="#" class="text-orange-500 hover:underline text-sm mt-2 block">Read more on The Vape Workshop</a>
-                    </div>
-                    <!-- More dynamically loaded review cards would go here -->
                 </div>
             </section>
 
