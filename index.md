@@ -95,37 +95,37 @@
             <section class="mb-12">
                 <h2 class="text-3xl font-bold text-white mb-6 text-center">Our Latest Hardware Reviews</h2>
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                    <!-- Hardware Review Card 1 -->
+                    <!-- Hardware Review Card 1: HellVape Trishul V2 Semi-Mech Mod Review -->
                     <div class="bg-gray-800 rounded-xl shadow-md p-6 border border-gray-700 hover:shadow-xl transition-shadow duration-300">
-                        <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=Latest+Mod+Review" alt="Latest Mod" class="w-full h-40 object-cover rounded-lg mb-4">
+                        <img src="https://thevapeworkshop.com/forums/download/file.php?id=274" alt="HellVape Trishul V2 Semi-Mech Mod" class="w-full h-40 object-cover rounded-lg mb-4">
                         <h3 class="text-xl font-semibold text-white mb-2">
-                            <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" rel="noopener noreferrer" class="hover:text-orange-500 transition-colors duration-300">The New X-Vape Mod: A Deep Dive</a>
+                            <a href="https://thevapeworkshop.com/forums/viewtopic.php?t=245" target="_blank" rel="noopener noreferrer" class="hover:text-orange-500 transition-colors duration-300">HellVape Trishul V2 Semi-Mech Mod Review</a>
                         </h3>
                         <p class="text-gray-300 text-sm mb-4">
-                            Our in-depth review of the X-Vape Mod, covering its performance, build quality, and user experience. Find the full review on <a href="https://thevapeworkshop.com" target="_blank" rel="noopener noreferrer" class="text-orange-500 hover:text-orange-600 underline">The Vape Workshop</a>.
+                            Some mods are built to be workhorses. Others? They’re made to turn heads. The HellVape Trishul V2 Semi-Mech Mod falls somewhere in between—a stunning, hard-hitting device that’s as much about performance as it is about style. Consider this the GOAT (Greatest Of All Tubes) for vapers who want to herd clouds without sacrificing safety.
                         </p>
-                        <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" rel="noopener noreferrer" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
+                        <a href="https://thevapeworkshop.com/forums/viewtopic.php?t=245" target="_blank" rel="noopener noreferrer" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
                             Read Full Review
                             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
                         </a>
                     </div>
 
-                    <!-- Hardware Review Card 2 -->
+                    <!-- Hardware Review Card 2: Requiem RBA (Limited Edition Gold Black) Review -->
                     <div class="bg-gray-800 rounded-xl shadow-md p-6 border border-gray-700 hover:shadow-xl transition-shadow duration-300">
-                        <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=RDA+Review" alt="New RDA" class="w-full h-40 object-cover rounded-lg mb-4">
+                        <img src="https://thevapeworkshop.com/forums/download/file.php?id=174" alt="Requiem RBA (Limited Edition Gold Black)" class="w-full h-40 object-cover rounded-lg mb-4">
                         <h3 class="text-xl font-semibold text-white mb-2">
-                            <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" rel="noopener noreferrer" class="hover:text-orange-500 transition-colors duration-300">Unboxing & Review: The Cloud Chaser RDA</a>
+                            <a href="https://thevapeworkshop.com/forums/viewtopic.php?t=95" target="_blank" rel="noopener noreferrer" class="hover:text-orange-500 transition-colors duration-300">Requiem RBA (Limited Edition Gold Black) Review</a>
                         </h3>
                         <p class="text-gray-300 text-sm mb-4">
-                            We put the Cloud Chaser RDA to the test. Find out if it lives up to the hype for flavor and clouds on <a href="https://thevapeworkshop.com" target="_blank" rel="noopener noreferrer" class="text-orange-500 hover:text-orange-600 underline">The Vape Workshop</a>.
+                            Unboxing this RBA is like opening a miniature treasure chest. The classy metal case sets the tone immediately — no cheap cardboard sleeve or crumpled plastic here. Inside? You’re greeted with a beautifully laid-out toolkit that screams premium. Not just the RBA, but everything a coiler needs: airflow pins (bottom and side), fused Claptons, screwdriver, coil leg trimmer, spare bits, and more. It’s a complete builder’s starter pack, minus the unicorn blood.
                         </p>
-                        <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" rel="noopener noreferrer" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
+                        <a href="https://thevapeworkshop.com/forums/viewtopic.php?t=95" target="_blank" rel="noopener noreferrer" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
                             Read Full Review
                             <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
                         </a>
                     </div>
 
-                    <!-- Hardware Review Card 3 -->
+                    <!-- Hardware Review Card 3: Compact Power: The Mini Pod System (Placeholder) -->
                     <div class="bg-gray-800 rounded-xl shadow-md p-6 border border-gray-700 hover:shadow-xl transition-shadow duration-300">
                         <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=Pod+System+Review" alt="Pod System" class="w-full h-40 object-cover rounded-lg mb-4">
                         <h3 class="text-xl font-semibold text-white mb-2">
