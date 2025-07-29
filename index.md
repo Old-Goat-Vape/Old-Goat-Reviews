@@ -23,15 +23,15 @@
         <header class="bg-gradient-to-r from-black to-gray-900 text-white shadow-lg py-4 px-6 md:px-10">
             <div class="container mx-auto flex justify-between items-center">
                 <!-- Site Title/Logo -->
-                <a href="#" class="text-3xl font-bold tracking-tight rounded-lg p-2 hover:bg-gray-800 transition-colors duration-300">
-                    Old Goat Vape Reviews
+                <a href="index.html" class="rounded-lg p-2 hover:bg-gray-800 transition-colors duration-300">
+                    <img src="https://thevapeworkshop.com/forums/download/file.php?id=300" alt="Old Goat Vape Reviews Logo" class="h-12 md:h-16 w-auto">
                 </a>
                 <!-- Navigation Menu (hidden on small screens, shown on medium and up) -->
                 <nav class="hidden md:flex space-x-6">
-                    <a href="#" class="text-lg font-medium hover:text-orange-500 transition-colors duration-300 rounded-md px-3 py-2">Home</a>
+                    <a href="index.html" class="text-lg font-medium hover:text-orange-500 transition-colors duration-300 rounded-md px-3 py-2">Home</a>
                     <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" rel="noopener noreferrer" class="text-lg font-medium hover:text-orange-500 transition-colors duration-300 rounded-md px-3 py-2">Reviews</a>
-                    <a href="#" class="text-lg font-medium hover:text-orange-500 transition-colors duration-300 rounded-md px-3 py-2">About Us</a>
-                    <a href="#" class="text-lg font-medium hover:text-orange-500 transition-colors duration-300 rounded-md px-3 py-2">Contact</a>
+                    <a href="about.html" class="text-lg font-medium hover:text-orange-500 transition-colors duration-300 rounded-md px-3 py-2">About Us</a>
+                    <a href="contact.html" class="text-lg font-medium hover:text-orange-500 transition-colors duration-300 rounded-md px-3 py-2">Contact</a>
                 </nav>
                 <!-- Mobile Menu Button (shown on small screens) -->
                 <button class="md:hidden text-white focus:outline-none">
