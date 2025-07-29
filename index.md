@@ -125,14 +125,14 @@
                         </a>
                     </div>
 
-                    <!-- Hardware Review Card 3: Compact Power: The Mini Pod System (Placeholder) -->
+                    <!-- Hardware Review Card 3: The Blaze RDA by ThunderCloud Creations & Mike Vapes: The New King of Flavour! -->
                     <div class="bg-gray-800 rounded-xl shadow-md p-6 border border-gray-700 hover:shadow-xl transition-shadow duration-300">
-                        <img src="https://placehold.co/400x250/E5E7EB/4B5563?text=Pod+System+Review" alt="Pod System" class="w-full h-40 object-cover rounded-lg mb-4">
+                        <img src="https://thevapeworkshop.com/forums/download/file.php?id=138" alt="The Blaze RDA" class="w-full h-40 object-cover rounded-lg mb-4">
                         <h3 class="text-xl font-semibold text-white mb-2">
-                            <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" rel="noopener noreferrer" class="hover:text-orange-500 transition-colors duration-300">Compact Power: The Mini Pod System</a>
+                            <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" rel="noopener noreferrer" class="hover:text-orange-500 transition-colors duration-300">The Blaze RDA by ThunderCloud Creations & Mike Vapes: The New King of Flavour!</a>
                         </h3>
                         <p class="text-gray-300 text-sm mb-4">
-                            A look at the latest compact pod system, perfect for on-the-go vaping. Is it right for you? See the full review on <a href="https://thevapeworkshop.com" target="_blank" rel="noopener noreferrer" class="text-orange-500 hover:text-orange-600 underline">The Vape Workshop</a>.
+                            From the moment you unbox the Blaze RDA, you know this isn’t your average dripper. It arrives in a premium metal case, which gives it the kind of unboxing flair usually reserved for fancy watches and secret agent gadgets. Inside, everything is neatly laid out — a beauty ring, a 510 stand, coils, coil trimmer, BF pin, spare parts, tools… everything but a coffee and a pat on the back. This thing means business.
                         </p>
                         <a href="https://thevapeworkshop.com/forums/viewforum.php?f=19" target="_blank" rel="noopener noreferrer" class="text-orange-500 hover:text-orange-600 font-medium flex items-center">
                             Read Full Review
